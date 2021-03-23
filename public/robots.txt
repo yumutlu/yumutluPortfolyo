@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://yumutlu.vercel.app
+
+# Sitemaps
+Sitemap: https://yumutlu.vercel.app/sitemap.xml
